@@ -37,8 +37,7 @@ docker-compose up
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.  
-dilipjoshis98@gmail.com  
-8975427620  
+kapillondhe25@gmail.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
